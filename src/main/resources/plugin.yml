@@ -1,0 +1,5 @@
+name: EntityPreserver
+version: '${version}'
+main: me.mekb.entitypreserver.EntityPreserver
+api-version: 1.19
+authors: [ mekb ]
